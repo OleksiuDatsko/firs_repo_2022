@@ -1,3 +1,5 @@
+//my firs coment
+
 #include <stdio.h>
 #include <math.h>
 
